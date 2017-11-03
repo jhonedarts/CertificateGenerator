@@ -2,13 +2,13 @@
 Gerador de Certificados para eventos/cursos<br>
 criado para a XVII SIECOMP - UEFS
 
-Setup: Esta aplicação usa a biblioteca do iText pra manipular pdfs. Encontra-se na pasta "libs" dentro da pasta do projeto "CertificateGenerator"<br/>
+Setup: Esta aplicação usa a biblioteca do iText pra manipular pdfs. Encontra-se na pasta "libs" dentro da pasta do projeto "CertificateGenerator"<br>
 
 Preparando a execução
 
-1- Escreva os dados em um txt e salve na pasta "in" no mesmo diretório em que se encontra o .jar ou na pasta do projeto "CertificateGenerator"<br/>
-2- Execute<br/>
-3- Os certificados gerados serão salvos na pasta "results"<br/>
+1- Escreva os dados em um txt e salve na pasta "in" no mesmo diretório em que se encontra o .jar ou na pasta do projeto "CertificateGenerator"<br>
+2- Execute<br>
+3- Os certificados gerados serão salvos na pasta "results"<br>
 
 Formato do arquivo de entrada:
 ```
@@ -27,7 +27,7 @@ O tipo só pode ser "minicurso", "palestra", "monitores" e "organização". Send
 
 Obs:<br>
 
-Pode escrever tudo em minúsculo.
-Pode adicionar mais de um curso no mesmo txt.
-Pode por varios txt.
-O nome do arquivo txt nao importa.
+Pode escrever tudo em minúsculo.<br>
+Pode adicionar mais de um curso no mesmo txt.<br>
+Pode por varios txt.<br>
+O nome do arquivo txt nao importa.<br>
