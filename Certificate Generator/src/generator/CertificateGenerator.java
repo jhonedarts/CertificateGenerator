@@ -115,7 +115,6 @@ public class CertificateGenerator {
                             nome = (nomeAux1.length()>3)?nome.concat(StringUtils.capitalize(nomeAux1))+" ":nome.concat(nomeAux1)+" ";   
                         }
                         nome = nome.trim();
-                        System.out.println(nome);
                         if(tipo==1)
                             tipo = 0;
                         else if (tipo==3)
