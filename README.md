@@ -1,6 +1,6 @@
 # Certificate Generator
 Gerador de Certificados para eventos/cursos<br>
-criado para a XVII SIECOMP - UEFS
+criado para a XVIII SIECOMP - UEFS
 
 Setup: Esta aplicação usa a biblioteca do iText pra manipular pdfs. Encontra-se na pasta "libs" dentro da pasta do projeto "CertificateGenerator"<br>
 
