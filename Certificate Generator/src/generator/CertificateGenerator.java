@@ -32,7 +32,7 @@ public class CertificateGenerator {
     public static final String text1 = "Certificamos que ";
     public static final String text2_0 = " participou do minicurso: ";
     public static final String text2_1 = " ministrou o minicurso: ";
-    public static final String text2_2 = " participou da palestra: ";
+    public static final String text2_2 = " participou do evento";
     public static final String text2_3 = " ministrou a palestra: ";
     public static final String text2_4 = " paritcipou como monitor";
     public static final String text2_5 = " participou da organização";
@@ -65,7 +65,7 @@ public class CertificateGenerator {
                                     break;
                                 case "palestra":
                                     tipo = 2;
-                                    curso = "palestras/"+StringUtils.capitalize(aux[2].trim());
+                                    curso = StringUtils.capitalize(aux[2].trim());
                                     horas = aux [3].trim();
                                     break;
                                 case "monitor":
@@ -127,14 +127,25 @@ public class CertificateGenerator {
         System.out.println("concluido!");
     }
     public static void createCertificate(String curso, String horas, String nome, int tipo) throws DocumentException, IOException{        
-        String dest = DEST+curso+"/"+nome+".pdf";
+        String dest;
+        switch (tipo){
+            case 3:
+                dest = DEST+"palestras/palestrantes/"+curso+"/"+nome+".pdf";//palestrante
+                break;
+            case 2:
+                dest = DEST+"palestras/"+nome+".pdf";//participação no evento
+                break;
+            default:
+                dest = DEST+curso+"/"+nome+".pdf";//organizador
+                break;
+        }
         BaseFont bf = BaseFont.createFont(FONT, BaseFont.WINANSI, BaseFont.EMBEDDED);
         Font font;        
         
         File file = new File(dest);
         file.getParentFile().mkdirs();
         Document document = new Document(PageSize.A4.rotate());
-        //document.setMargins(80, 80, 380, 100); //A3
+        //document.setMargins(80, 80, 380, 100); //A3  
         document.setMargins(50, 50, 270, 30); //A4
         PdfWriter writer = PdfWriter.getInstance(document, new FileOutputStream(dest));
         if (curso.contains("/")){
@@ -148,22 +159,22 @@ public class CertificateGenerator {
         String text2 =null;
         switch (tipo){
             case 0:
-                text2 = text2_0+curso;
+                text2 = text2_0+curso;//minicurso ouvinte
                 break;
             case 1:
-                text2 = text2_1+curso;
+                text2 = text2_1+curso;//minicurso palestrante
                 break;
             case 2:
-                text2 = text2_2+curso;
+                text2 = text2_2;//participação no evento
                 break;
             case 3:
-                text2 = text2_3+curso;
+                text2 = text2_3+curso;//palestrante
                 break;
             case 4:
-                text2 = text2_4;
+                text2 = text2_4;//monitor
                 break;
             case 5:
-                text2 = text2_5;
+                text2 = text2_5;//organizador
                 break;
             default:
         }
