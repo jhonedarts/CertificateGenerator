@@ -1,8 +1,8 @@
 # Certificate Generator
 Gerador de Certificados para eventos/cursos<br>
-criado para a XVIII SIECOMP - UEFS
+criado por [Darts](facebook.com/jhonedarts)
 
-Setup: Esta aplicação usa a biblioteca do iText pra manipular pdfs. Encontra-se na pasta "libs" dentro da pasta do projeto "CertificateGenerator"<br>
+Setup: Esta aplicação usa a biblioteca do iText pra manipular pdfs e a Commons Lang 3 para manipular Strings. Encontram-se na pasta "libs" dentro da pasta do projeto "CertificateGenerator"<br>
 
 Preparando a execução
 
@@ -22,8 +22,8 @@ nome do participante
 
 ```
 
-O tipo só pode ser "minicurso", "palestra", "monitores" e "organização". Sendo que estess dois últimos dispensam nome do curso e palestrante.
-0 "08" ao lado de "/nome do curso" representa a carga horária, neste exemplo, 08 horas.
+Inicialmente só existem as categorias: "oficina", "workshop", "palestra", "monitores" e "organização". Sendo que estas duas últimas dispensam nome do curso e palestrante.
+0 "08" ao lado de "/nome do curso" representa a carga horária, neste exemplo, 08 horas. Novas categorias podem ser adicionadas posteriormente. Se fizer muita merda, pode resetar tudo na aba de instruções.
 
 Obs:<br>
 
