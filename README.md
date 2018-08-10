@@ -1,6 +1,6 @@
 # Certificate Generator
 Gerador de Certificados para eventos/cursos<br>
-criado por [Darts](facebook.com/jhonedarts)
+criado por [Darts](https://www.facebook.com/JhoneDarts)
 
 Setup: Esta aplicação usa a biblioteca do iText pra manipular pdfs e a Commons Lang 3 para manipular Strings. Encontram-se na pasta "libs" dentro da pasta do projeto "CertificateGenerator"<br>
 
