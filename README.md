@@ -1,4 +1,4 @@
-# Certificate Generator
+# Gerador de Certificados
 Gerador de Certificados para eventos/cursos<br>
 criado por [Darts](https://www.facebook.com/JhoneDarts)
 
