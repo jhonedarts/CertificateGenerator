@@ -1,0 +1,283 @@
+/oficina /Docker: a tecnologia dos contêineres agilizando sua vida ;04
+/Antonio Raian de Lima Mendes 
+/Sarah Pereira Cerqueira
+
+Camille de Lima Jesús
+Luiz Ricardo Inês de Souza
+Pedro Henrique Gomes dos Santos
+Carlos Andradé Pereira Tinin
+Ícaro Carlos Rios
+Gledson de Oliveira
+
+/oficina /Aprenda a criar aplicações web de um jeito fácil e reativo com Vue.js ;04
+/Emerson de Brito Souza
+/Bruno Menezes de Lima
+
+Matheus Oliveira Borges
+Filipe Macêdo Borges Boaventura
+leandro campos souza
+Marco Antonio Silva Rios de Almeida
+Carlos Alberto Brandão Costa Júnior
+Roberto Maia Rodrigues Junior
+Nielson Vágno Oliveira Carneiro
+Gabriel Ribeiro de Jesus
+Vitor Cordeiro
+Kevin Cerqueira Gomes
+João Paulo Santos Sena
+Esdras Abreu Silva
+Daniel Victor dos Santos Gonçalves
+Lucas do Carmo Nascimento
+Alberto Manoel Dos S. S. Junior
+Jussara Gomes Machado
+
+/oficina /Desenvolvimento de Jogos utilizando Love2d/Lua ;08
+/João Victor Oliveira Couto
+
+Francisco Tito Silva Santos Pereira
+Hiago Rangel de Almeida
+Ananias Correia do Nascimento
+Gabriela dos Santos Costa Nunes
+Lucas Solva Lima
+
+/oficina /Desenvolvendo Projetos em Arduino ;04
+/Ivanildo Gomes da Silva
+/Ramon de Cerqueira Silva
+
+Luciano Araújo Dourado Filho
+Alex Anderson Ferreira Boa Morte
+Matheus Nascimento Pereira de Lima
+Elvis Michael Souza Serafim
+William Oliveira Soares
+Igor Lima Gonçalves 
+Adlla Katarine Aragão Cruz Passos
+Anésio Sousa dos Santos Neto
+Nadime del Carmen Alves Nascimento
+Wellington da Conceição Damasceno
+Carlos André Pereira Tinin
+Matheus Oliveira Cerqueira
+Marcos Vinícios dos S. Ferreira
+João Pedro Costa Ferreira
+Cleyton Almeida da Sila
+Messias Júnior Lira da Silva
+Gabriel da Cruz Silva
+
+/oficina /Construindo API REST com Node.js ;04
+/Luiz Ricardo Inês de Souza
+
+Wanderson B. da Silva
+João Paulo Santos Sena
+Yuri da Silva Martins
+Lokisley Oliveira Pedreira
+
+/oficina /Construindo API REST com Node.js ;08
+/Luiz Ricardo Inês de Souza
+
+Elvis Huges do Nascimento
+Vitor Cordeiro
+Gustavo Henrique B. de Oliveira
+Kelvin Oliveira do Carmo
+Emerson Santos Lima
+Dermeval Neves de Oliveira Filho
+
+/oficina /Fazendo música com Arduino ;04 
+/Milena de Souza Melo 
+/Émylle Andressa ;borges de Lima
+
+Pedro Henrique B. Bastos
+
+/oficina /Microcontroladores e Protocolos de Comunicação ;04
+/Franklin Lázaro Santos de Oliveira
+
+Elvis Michael Souza Serafim
+Abel Ramalho Galvão
+Tiago de Figueredo Moura
+Carlos andré Pereira Tinin
+Samuel Vitorio Lima
+Lokisley Oliveira Pedreira 
+Marcos Vinícius Cruz Lima
+Jussara Gomes Machado
+Leandro Pereira Sampaio
+
+/oficina /Microcontroladores e Protocolos de Comunicação ;08
+/Franklin Lázaro Santos de Oliveira
+
+/oficina /Circuitos Digitais ;04 
+/Gustavo Henrique Bastos de Oliveira 
+/Ramon de Cerqueira Silva 
+/Guilherme Lopes Wanderley
+
+Adlla Katarine Aragão Cruz Passos
+Esdras Abreu Silva
+Matheus Nascimento Pereira de Lima
+Elvis Michael Souza Serafim
+Gustavo dos Santos Menezes Alves
+Vitor Mendes da Silva
+Luciano Araújo Dourado Filho
+Johnny Quest Dantas Pereira
+William Oliveira Soares
+Víctor César da Rocha Bastos
+Lucas Oliveira Cardoso Dias
+Patrick Barnabé Moreira Santo
+Antônio Carlos Mendes Neto
+Daniel Lucas Alves Ferreira de Jesus
+Cleyton Almeida da Silva
+Daniel Alves Costa
+Juliana Aragão Pinto
+Messias Júnior Lira da Silva
+Wellington da Conceição Damasceno
+Matheus Lima F. de Conceição
+Ivanildo Gomes da Silva
+Daniel Santana de Oliveira
+Matheus Oliveira Cerqueira
+Igor Lima Gonçalves
+
+/oficina /Projeto e Desenvolvimento de Placas de Circuito Impresso ;04
+/Franklin Lázaro Santos de Oliveira
+
+Victor Munduruca Gomes Santos
+Abel Ramalho GalvãoAnanias Correia do Nascimento
+Kelnin Cerqueira Gomes
+Gabriel da Cruz Silva
+Tiago de Figueredo Moura
+Leandro Pereira Sampaio
+Beatriz Silva de Santana
+Idelvando Cerqueira de Souza
+Gabriel Sá Barreto Alvez
+Samuel Vitorio Lima
+Joacy Mesquita da Silva
+Wanderson Bezerra da silva 
+Camille de Lima Jesús
+Ramon de Cerqueira Silva
+Adla Katarine Aragão Cruz Passos
+
+/oficina /Projeto e Desenvolvimento de Placas de Circuito Impresso ;08
+/Franklin Lázaro Santos de Oliveira
+
+/oficina /Introdução à Estruturas de dados com POO ;04
+/Emerson Santos Lima
+
+Fernando Mota Freitas
+Mariana da Silva Lima Santos
+Ian Zaque Pereira de Jesus dos Santos
+Jonatas de Jesus Lima
+Carlos Alberto Brandão Costa Júnior
+Raul do Carmo Peixoto
+Daniel Cavalcante Dourado
+Moisés Almeida da Cruz Farias 
+Gabriel Ribeiro de Jesus
+Alexandre Silva Caribé
+Nadine del Carmen Alves Centeano
+Roberto Maia Rodrigues Junior
+Patrick Barnabé M. Santos
+Marcos Vinicius Cruz Lima
+
+/oficina /Introdução ao Javascript ;06
+
+/oficina /Trabalho em Equipe ;02
+/Rosária da Paixão Trindade
+
+ALISSON RODRIGUES DE CARVALHO SANTOS 
+BIANCA SANTANA DE ARAUJO SILVA 
+DANIEL FERNANDES CAMPOS 
+DANRLEI ALMEIDA ARAUJO 
+DIEGO DO CARMO SILVA
+EDUARDO LIMA DE MATOS 
+ESTéFANE CARMO DE SOUZA 
+EVELYN SUZARTE FERNANDES 
+GABRIEL DE OLIVEIRA SILVA 
+JOãO LUCAS DA SILVA CERQUEIRA 
+JOãO PEDRO DE CARVALHO FELIX 
+JOÃO VÍTOR SANTOS DE ANDRADE 
+JOSé FERNANDES DOS SANTOS NETO 
+LUCAS DA SILVA OLIVEIRA 
+LUIS HENRIQUE BARBOSA BATISTA 
+MATEUS FERNANDES SANTOS 
+MATEUS FERREIRA BORGES SOARES 
+PEDRO HENRIQUE SOARES SANTOS
+RAFAEL MOTA SOARES 
+SíDNEI SANTOS SANTANA 
+THIAGO CARDOZO DE JESUS 
+Gabriel Araújo Carvalho dos Santos
+Italo Gustavo Vieira Souza
+João Pedro Rios Carvalho
+Pedro Antonio Nunes Moreira
+Rodrigo Silva Santos
+João Erick Barbosa Teixeira da Silva
+Allan Capistrano de Santana Santos
+Felipe Silva Queiroz
+José Gabriel Gomes dos Santos Oliveira
+João Samuel Vilas Boas Góes
+João Victor Macedo dos Santos LIMA
+Lucas de Paiva Carianha
+
+/oficina /Introdução à Lógica de Programação ;06
+/Claudia Pinto Pereira 
+/Ricardo Sena Carvalho 
+/Samuel Vitorio Lima 
+/Sergio Pugliesi de Matos
+/Alan Pereira
+
+ALISSON RODRIGUES DE CARVALHO SANTOS 
+BIANCA SANTANA DE ARAUJO SILVA 
+DANIEL FERNANDES CAMPOS 
+DANRLEI ALMEIDA ARAUJO 
+DIEGO DO CARMO SILVA
+EDUARDO LIMA DE MATOS 
+ESTéFANE CARMO DE SOUZA 
+EVELYN SUZARTE FERNANDES 
+GABRIEL DE OLIVEIRA SILVA 
+JOãO LUCAS DA SILVA CERQUEIRA 
+JOãO PEDRO DE CARVALHO FELIX 
+JOÃO VÍTOR SANTOS DE ANDRADE 
+JOSé FERNANDES DOS SANTOS NETO 
+LUCAS DA SILVA OLIVEIRA 
+MATEUS FERNANDES SANTOS 
+MATEUS FERREIRA BORGES SOARES 
+PEDRO HENRIQUE SOARES SANTOS
+SíDNEI SANTOS SANTANA 
+THIAGO CARDOZO DE JESUS 
+Gabriel Araújo Carvalho dos Santos
+Italo Gustavo Vieira Souza
+João Pedro Rios Carvalho
+Pedro Antonio Nunes Moreira
+Rodrigo Silva Santos
+João Erick Barbosa Teixeira da Silva
+Allan Capistrano de Santana Santos
+Felipe Silva Queiroz
+José Gabriel Gomes dos Santos Oliveira
+João Samuel Vilas Boas Góes
+João Victor Macedo dos Santos LIMA
+Lucas de Paiva Carianha
+Tárcio Passos Freitas
+
+/oficina /Aprendizagem de Programação com C ;04 
+/Camille de Lima Jesús
+/Émylle Andressa Borges de Lima 
+/Glauber da Silva Santana
+
+ALISSON RODRIGUES DE CARVALHO SANTOS 
+BIANCA SANTANA DE ARAUJO SILVA 
+CAIO SOARES 
+DANIEL FERNANDES CAMPOS 
+DANRLEI ALMEIDA ARAUJO 
+DIEGO DO CARMO SILVA
+EDUARDO LIMA DE MATOS 
+ESTéFANE CARMO DE SOUZA 
+EVELYN SUZARTE FERNANDES 
+JOãO LUCAS DA SILVA CERQUEIRA 
+JOãO PEDRO DE CARVALHO FELIX 
+JOSé FERNANDES DOS SANTOS NETO 
+MATEUS FERNANDES SANTOS 
+MATEUS FERREIRA BORGES SOARES 
+PEDRO HENRIQUE SOARES SANTOS
+RAFAEL MOTA SOARES 
+SíDNEI SANTOS SANTANA 
+João Pedro Rios Carvalho
+Pedro Antonio Nunes Moreira
+Rodrigo Silva Santos
+João Erick Barbosa Teixeira da Silva
+Allan Capistrano de Santana Santos
+Felipe Silva Queiroz
+João Victor Macedo dos Santos LIMA
+Lucas de Paiva Carianha
+Tárcio Passos Freitas

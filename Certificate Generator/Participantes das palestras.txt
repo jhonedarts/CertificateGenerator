@@ -1,0 +1,167 @@
+
+Veteranos (Por palestra 1h, somente uma das palestras foi 2h - FAVOR NÃO FAZER CERTIFICADO DE 20 HORAS)
+
+-- Apresentação do Curso 
+
+Johnny Quest Dantas Pereira
+Gabriel Ribeiro de Jesus
+Hiago Rangel de Almeida
+Moiisés Almeida da Cruz Farias
+Messias Júnios Lira da Silva
+Kelvin Cerqueira Gomes
+Lucas Carneiro de Almeida Lima
+Alex Anderson Ferreira Boa Morte
+Daniel Victor dos Santos Gonçalves
+Brenda Nascimento dos Santos Souza
+Cleyton Almeida Silva
+Esdras Abreu Silva
+Daniel Cavalcante Dourado
+Lucas da Silva Cardoso
+Samuel Vitorio Lima
+Marco Antonio Silva Rios de Almeida
+
+-- Ramo IEEE - UEFS
+
+Valmir Vinícius de Almeida Santos
+Ariana de J. S. Pereira
+Lucas da Silva Cardoso
+Samuel Vitorio Lima
+Lucas Silva Lima
+Rodrigo P. O. Miranda
+Ivan Marcos M. Fontes
+Kelvin Cerqueira Gomes
+Lucas Carneiro de Almeida Lima
+Daniel Victor dos Santos Gonçalves
+Hiago Rangel de Almeida
+Esdras Abreu Silva
+Ian Zaque Pereira de Jesus dos Santos
+Messias Júnior Lira da Silva
+Moiisés Almeida da Cruz Farias
+Roberto Maia Rodrigues Júnior
+Gabriel Ribeiro de Jesus
+Carlos Alberto Brandão Costa Júnior
+Daniel Cavalcante Dourado
+Nadime del Carmen Alves Nascimento
+Lucas Oliveira Cardoso Dias
+Melissa Evelyn do S. L. Matos
+Mariana da Silva Lima Santos
+Matheus Nascimento P. de Lima
+William Oliveira Soares
+Rodrigo Fraga Oliveira
+Patrícia Alessandra Carmona dos Santos
+
+-- PET Engenharia: Programa de Educação Tutorial
+
+Johnny Quest Dantas Pereira
+Rodrigo P. O. Miranda
+Ivan Marcos M. Fontes
+Ian Zaque Pereira de Jesus dos Santos
+Messias Júnior Lira da Silva
+Nadime del Carmen Alves Nascimento
+Lucas Oliveira Cardoso Dias
+Melissa Evelyn do S. L. Matos
+Mariana da Silva Lima Santos
+Matheus Nascimento P. de Lima
+William Oliveira Soares
+Rodrigo Fraga Oliveira
+Patrícia Alessandra Carmona dos Santos
+Matheus Teixeira dos Santos
+Alex Anderson Ferreira Boa Morte
+
+-- O que é o MEJ e como ele vai mudar a sua visão de mundo 
+
+Lucas da Silva Cardoso
+Samuel Vitorio Lima
+Kelvin Cerqueira Gomes
+Lucas Carneiro de Almeida Lima
+Daniel Victor dos Santos Gonçalves
+Esdras Abreu Silva
+Messias Júnior Lira da Silva
+Moiisés Almeida da Cruz Farias
+Roberto Maia Rodrigues Júnior
+Gabriel Ribeiro de Jesus
+Daniel Cavalcante Dourado
+Rodrigo Fraga Oliveira
+Patrícia Alessandra Carmona dos Santos
+Johnny Quest Dantas Pereira
+Cleyton Almeida Silva
+Valmir Vinicius de Almeida Santos
+Emille Victória Sampaio Guedes
+Brenda Nascimento dos Santos Souza
+Alex Anderson Ferreira Boa Morte
+Hiago Rangel de Almeida
+Marco Antonio Silva Rios de Almeida
+Lucas Oliveira Cardoso Dias
+Elvis Huges do Nascimento
+ 
+-- Freelancer – A história que ninguém te conta 
+
+Vagner José dos Santos 
+Elvis Huges do Nascimento
+Ian Zaque Pereira de Jesus dos Santos
+Evaldson Queiroz Nunes 
+Antonio Crispim Amorin Neto
+
+-- Vue.JS - Desenvolvimento evolutivo e modularizado
+
+Evaldson Queiroz Nunes 
+Antonio Crispim Amorin Neto
+Ian Zaque Pereira de Jesus dos Santos
+Vagner José dos Santos 
+Alex Anderson Ferreira Boa Morte
+
+-- Mulheres inventoras, mulheres engenheiras 
+
+Ian Zaque Pereira de Jesus dos Santos
+Laercio de Souza Rios
+Alex Anderson Ferreira Boa Morte
+Ivan Marcos M. Fontes
+Idelvando C. de Souza
+Mariana da Silva Lima Santos
+Esther de Santana Araújo
+
+-- Demonstração: Como construir e manipular drones	 
+
+Johnny Quest Dantas Pereira
+Víctor César da Rocha Bastos
+Matheus Nascimento P. de Lima
+Evelyn Suzarte Fernandes
+Gabriel Silva de Azevedo
+Evaldson Queiroz Nunes
+Wanderson B. da Silva
+Camille de Lima Jesús
+Fabio Santos de Oliveira
+Victor Munduruca Gomes Santos
+Matheus Teixeira dos Santos
+Valmir Vinicius de Almeida Santos
+Anderson Teixeira dos Santos
+Messias Júnior Lira da Silva
+Idelvando Cerqueira de Souza
+Samuel Vitorio Lima
+Jamile Sousa Dias
+Lidiane da Paixão
+
+-- Técnicas para aumento de desempenho pessoal 
+
+Johnny Quest Dantas Pereira
+Víctor César da Rocha Bastos
+Matheus Nascimento P. de Lima
+Evelyn Suzarte Fernandes
+Gabriel Silva de Azevedo
+Evaldson Queiroz Nunes
+Fabio Santos de Oliveira
+Victor Munduruca Gomes Santos
+Matheus Teixeira dos Santos
+Valmir Vinicius de Almeida Santos
+Anderson Teixeira dos Santos
+Messias Júnior Lira da Silva
+Rafael Mota Soares
+Esdras Abreu Silva
+Sarah Pereira Cerqueira
+João Paulo Santos Sena
+Marcos de Jesus Ramos
+William Oliveira Soares
+Khaíck Oliveira Brito
+Gustavo Henrique B. de Oliveira
+Matheus Lima F. de Conceição
+Marcia Oliveira dos Santos Coelho

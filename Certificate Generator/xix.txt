@@ -1,0 +1,524 @@
+/oficina /Robótica  ;04
+/Odivio Caio Santos Matos
+/Matheus Oliveira Borges
+
+Alexandre Silva Caribé
+Kelvin Cerqueira Gomes
+Ricardo Porto Cruz
+Daniel Cavalcante Dourado
+Carlos Alberdo Brandão Costa Junior
+Ramires Tacito Oliveira dos Santos
+Lucas Oliveira Cardoso Dias
+Gustavo Mendes Bastos
+Roberto Maia Rodrigues Junior
+João Pedro Oliveira Rocha
+Moisés Almeida da Cruz Farias
+Nilton Cerqueira Bento de Oliveira Jr
+Silvia Azevedo de Oliveira
+Gabriel Ribeiro de Jesus
+João Victor Santana Silva
+Renan Pereira de Souza Silva
+Marco Antônio Silva Rios de Almeida
+Daniel Santa Rosa Santos
+Jonatas de Jesus Lima
+Leonardo Sampaio das Virgens Cunha
+Hiago Rangel de Almeida
+Fabio Cosme Freitas Almeida
+Weslei Santos Pinheiro
+Ian Zaque Pereira de Jesus dos Santos
+Nadime del Carmen Alves Centeno
+
+/oficina /Introdução à Lógica de Programação ;06
+/Manuella dos Reis Araújo Vieira
+/Samuel Vitorio Lima
+/Claudia Pinto Pereira 
+/Ricardo Sena Carvalho
+
+Alexandre Silva Caribe
+Carlos Alberto Brandao Costa Junior
+Daniel Cavalcante Dourado
+Daniel Santa Rosa Santos
+Daniel Victor Dos Santos Goncalves
+Esdras Abreu Silva
+Gustavo Mendes Bastos
+Gabriel Ribeiro De Jesus
+Hiago Rangel De Almeida
+Ian Zaque Pereira De Jesus Dos Santos
+João Pedro Oliveira Rocha
+João Victor Santana Silva
+Jonatas De Jesus Lima
+Kevin Cerqueira Gomes
+Leonardo Sampaio Das Virgens Cunha
+Lucas Carneiro De Araujo Lima
+Lucas Oliveira Cardoso Dias
+Marco Antonio Silva Rios De Almeida
+Moisés Almeida Da Cruz Farias
+Nilton Cerqueira Bento De Oliveira Junior
+Patrick Barnabé Moreira Santos
+Ramires Tacito Oliveira Dos Santos
+Renan Pereira De Souza Silva
+Ricardo Porto Cruz
+Roberto Maia Rodrigues Junior
+Silvia Azevedo De Oliveira
+Thiago Luiz Lopes Silva
+Weslei Santos Pinheiro
+
+/oficina /Os desafios do trabalho em grupo ;04
+/Rosária Trindade Paixão
+
+Alexandre Silva Caribé
+Daniel Santa Rosa Santos
+Daniel Victor dos Santos Gonçalves
+Esdras Abreu Silva
+João Pedro Oliveira Rocha
+Kevin Cerqueira Gomes
+Leonardo Sampaio das Virgens Cunha
+Lucas Carneiro de Araújo Lima
+Moisés Almeida da Cruz Farias
+Nilton Cerqueira Bento de Oliveira Jr
+Silvia Azevedo de Oliveira
+Thiago Luiz Lopes Silva
+Lucas Oliveira Cardoso Dias
+Jonatas de Jesus Lima
+Hiago Rangel de Almeida
+Ramires Tacita O. dos Santos
+Carlos Alberto Brandão Costa Júnior
+Renan Pereira de Souza Silva
+Roberto Maia Rodrigues Junior
+Marco Antônio Silva Rios de Almeida
+Daniel Cavalcante Dourado
+
+/oficina /Introdução a linguagem C ;04
+/Emylle Andressa B. de Lima
+/Glauber da silva Santana
+
+﻿Alexandre Silva Caribé
+Daniel Santa Rosa Santos
+Daniel Victor dos Santos Gonçalves 
+Esdras Abreu Silva
+João Pedro Oliveira Rocha
+Kelvin Cerqueira Gomes 
+Leonardo Sampaio das Virgens Cunha
+Lucas Carneiro de Araújo Lima
+Moisés Almeida Cruz Farias 
+Nilton Cerqueira Bento de Oliveira Jr 
+Ricardo Porto Cruz 
+Silvia Azevedo de Oliveira 
+Thiago Luiz Lopes Silva 
+Leonardo Porto de Souza Lopes 
+Lucas Oliveira Cardoso Dias 
+Hiago Rangel de Almeida 
+Gabriel Ribeiro de Jesus 
+Vitor Mariano Cordeiro 
+Weslei Santos Pinheiro 
+João Victor Santana Silva 
+
+/workshop /Desenvolvimento de aplicativo Android Nativo ;08
+/João Paulo Santos Sena
+/Nathan Almeida souza
+
+Evaldson Queiroz Nunes
+Leandro Pereira Sampaio
+Samuel Vitorio Lima
+Ananias Correia do Nascimento
+Demerson Gomes Fraga Sampaio
+Itamar Morgado da Silva
+Dermeval Neves de Oliveira Filho
+Bernardo Oliveira Rosa 
+Pedro Henrique Gomes dos Santos
+Tiago de Figueiredo Moura
+Fabio Santos de Oliveira
+Juliana Aragão Pinto
+Emerson Santos Lima
+Bruno Claudino Matias
+Lucas do Carmo Nascimento
+Gabriel da Cruz Silva
+Gabriel Silva de Azevedo
+Abel Ramalho Galvão
+Gustavo Herique Bastos de Oliveira
+Francisco Tito Silva Santos Pereira
+Vitor Mariano Cordeiro
+
+/workshop /Introdução à Programação Competitiva ;04
+/heitor rodrigues santos silva
+
+Murilo Cruz Lopes
+Igor Lima Gonçalves
+Pedro Henrique Gomes dos Santos
+Henderson Souza Chalegre
+Anésio Sousa dos Santos Neto
+Gabriela dos S. C. Nunes
+Marcus Aldrey Soares dos Santos
+
+/workshop /Java 8 e 9 ao infinito e além ;04
+/Daniel coelho de Andrade
+/Wanderson B. da Bezerra
+
+João Paulo Santos Sena
+Samuel Vitorio Lima
+Nathan Almeida Souza
+Luciano Araújo Dourado Filho
+Elvis Huges do Nascimento
+Camille de Lima Jesus
+Gabriel Antônio P. dos S. Carneiro
+Cassio Silva de Sá Santos
+Marcus Aldrey Soares dos Santos
+Emerson Santos Lima
+Sesoque de Oliveira da Cruz
+Esaú da silva Mascarenhas 
+Tiago de Figueiredo Moura
+Almir Moreira da Silva Neto
+
+/workshop /Programação com Matrix Creator para mulheres ;08
+/Beatriz Silva de Santana
+/Lucas Morais
+
+﻿Sarah Pereira Cerqueira
+Ariana de J S Pereira
+Émylle Andressa Borges de Lima
+Mariana da Silva Lima Santos
+Nadine Cerqueira Marques
+Emille Victória Sampaio Guedes
+Quézia dos Santos Cardoso
+Vanessa de Souza de Oliveira
+Camille de Lima Jesus
+Juliana Aragão Pinto
+Adlla Katarine A. C. Passos 
+Gabriela dos S. C. Nunes 
+Wanderson B. da Silva 
+
+/workshop /Arduino – HelloWorld ;04
+/Ruanderson Vieira
+
+Melissa Evelyn da Silva Lima Matos
+Esther de Santana Araújo 
+Idelvando Cerqueira de Souza
+Nielson Vágno Oliveira Carneiro
+Gustavo dos Santos Menezes Alves
+Matheus Nascimento Pereira de Lima
+Mateus Aprille Oliveira
+Ivanildo Gomes da Silva
+Anderson da Luz Correia
+Vitor L. Roma dos Santos
+Anésio Sousa dos Santos Neto 
+Erick Moreira de Jesus Campos
+Gabriel da Cruz Silva
+Sergio Pugliesi de Matos
+
+/workshop /Game Design Teoria e Prática ;04
+/Victor Travassos Sarinho
+
+Francisco Tito Silva Santos Pereira
+João Victor Oliveira Couto
+Cássio Silva de Sá Santos
+Beatriz Silva de Santana
+Hugo Ribeiro de Oliveira Filho
+Evaldson Queiroz Nunes
+João Paulo Santos Sena
+Filipe Macêdo Borges Boaventura
+Yuri da Silva Martins
+Igor Lima Gonçalves
+Nathan Almeida Souza
+Demerson Gomes Fraga Sampaio
+Jadson Firmo Oliveira
+Aloisio Kleyner da Silva Lima Junior
+Álan Bruno Rios Miguel
+Daniel Alves Costa
+Romario dos Anjos Nascimento
+Gabriel Gomes
+Anderson da Luz Correia
+Rejanio das Neves de Moraes Filho
+Adlla Katarine Aragão Cruz Passos
+Gabriel Silva de Azevedo
+Gabriela dos S. C. Nunes
+Anésio Sousa dos Santos Neto
+Ellen Chalegre Aguiar
+
+/workshop /Sails.js Uma introdução na prática ;04
+/Aécio Júnior
+
+Thatianne cristina penha Carvalho
+yuri da silva Martins
+Jadson Firmo oliveira
+icaro cardoso Dias
+tiado Figueiredo Moura
+Weverson dos santos Gomes
+Bernardo oliveira Rosa
+Erick Moreira de jesus Campos
+Dermeval neves de oliveira Filho
+Matheus gui dos santos lima
+
+/workshop /Construct 2 construindo seu jogo de plataforma em 2D ;04
+/Sillas Senna rios de macedo
+
+Eduardo Carneiro de Oliveira
+Leandro Pereira Sampaio
+Mateus Lima Fonseca da Conceição
+Gabriel Silva de Azevedo
+Lindelmo Havallon da Silva Pinto Azevedo
+Nadine Cerqueira Marques
+Weverson dos Santos Gomes
+Alexandre Ribeiro Carneiro
+
+
+/palestra /Big Data e Cidades Inteligentes Utilizando dados para controlar a dinâmica de ambientes urbanos ;20
+/Daniel coelho de Andrade 
+
+/palestra /Migué-hehehe ;20
+/Fábio Almeida
+
+/palestra /Apresentação do ramo IEEE ;20
+/Victor Figueredo 
+/Antônio Crispim
+
+/palestra /Como aproveitar ao máximo seus “5” anos de curso ;20
+/Cássio Silva de Sá Santos
+
+/palestra /Blockchain além das Criptomoedas ;20
+/Paulo Pena
+
+/palestra /O que é o MEJ e como ele vai mudar a sua visão de mundo ;20
+/Saulo Dtarso
+
+/palestra /Arduino – Automação e Internet das Coisas (IoT) ;20
+/Ruanderson Vieira
+/Tarcísio Paim
+
+/palestra /Firebase, o back-end que todo front deveria conhecer ;20
+/Matheus Cardoso
+
+/palestra /Alto Desempenho Pessoal Como Hackear sua Produtividade ;20
+/Angelo Amâncio Duarte
+
+/palestra /Porquê entender a evolução da tecnologia+ ;20
+/Milena Melo
+
+/palestra /Web Apps with Vue.js ;20
+/Francisco Santos
+
+/palestra /Ecomp - Guia Iniciante (ou não) ;20
+/Beatriz de Brito Santana
+
+/palestra /Apresentação do curso e do Diretório Acadêmico ;20
+/matheus giovanni pires
+
+/palestra /Computação, Dados e Inteligência ;20
+/rodrigo tripodi calumby
+
+/palestra /Estágio ;20
+/rodrigo tripodi calumby
+
+/palestra /Um portal para o Universo ;20
+/Basílio Fernandez
+
+/palestra /Fishbowl - Habilidades do século 21 O que o mercado espera de você ;20
+/Jonata Weber Nogueira de Sena Leite
+
+/palestra /O Movimento HackerSpace em Feira de Santana ;20
+/fábio bispo de jesus
+/Sergio Pugliesi de Matos
+
+/palestra /O que eu gostaria de ouvir de alguém que tá no mercado de TI quando eu era estudante ;20
+/Ivan Neto
+
+/palestra /LaCAD Laboratório de Computação de Alto Desempenho ;20
+/Gledson Oliveira
+
+/palestra /Não deixe a UEFS atrapalhar os seus estudos! ;20
+/Diego Leite
+
+/palestra /Escrevendo código like a Boss com Clean Code e Object Calisthenic ;20
+/Cleriston Sampaio
+
+/palestra /Experiência de usuário ;20
+/Vinicius Lima
+
+Abel Ramalho Galvão
+Adlla Katarine Aragão Cruz Passos
+Alberto Manoel dos S. S. Júnior
+Alexandre Ribeiro Carneiro
+Alexandre Silva Caribé
+Alisson Souza Vilas Verde
+Allan Pereira da Silva
+Alyson Filipe Oliveira Dantas
+Américo Sousa dos Santos
+Anana de J. S. Pereira
+Ananias Correia do Nascimento
+Anderson da Luz Correia
+Anésio Sousa dos Santos Neto
+André Vieira Castro
+Ariane de J. S. Pereira
+Arthur Henrique Mota Brito Santos
+Aurelia Rocha Barreto
+Beatriz Silva de Santana
+Brendo Nascimento dos Santos Sousa
+Bruno Gonzaga de MAttos Vogel
+Carlos Luiz dos Santos Silva
+Caique dos Santos Trindade
+Camille de Lima Jesus
+Camylle Andressa Lima
+Carlos Alberto Brandão Costa Junior
+Carlos Luiz dos Santos Silva
+Cleyton Almeida da Silva
+Cássio Silva de Sá Santos
+Daniel Alves Costa
+Daniel Cavalcante Dourado
+Daniel Coelho de Andrade
+Daniel Lima de Oliveira
+Daniel Santa Rosa Santos
+Daniel Santana de Oliveira
+Daniel Victor dos Santos Gonçalves
+Demerson Gomes Fraga Sampaio
+Dermeval Neves de Oliveira Filho
+Douglas Almeida Carneiro
+Eduardo Carneiro de Oliveira
+Eduardo Marques dos Santos
+Ellen Chalegre Aguiar
+Elves Michael Souza Serafim
+Elvis Huges do Nascimento
+Elvis Michael Souza Serafim
+Emerson Santos Lima
+Emille Victória Sampaio Guedes
+Emylle Andressa B. de Lima
+Erick Moreira de Jesus Campos
+Esaú da Silva Mascarenhas
+Esdras Abreu Silva
+Esther de Santana Araújo
+Evaldson Queiroz Nunes
+Fabio Santos de Oliveira
+Filipe Macêdo Borges Boaventura
+Francisco Tito Silva Santos Pereira
+Franklin Lázaro Santos de Oliveira
+Gabriel G. P. da S. Carneiro
+Gabriel Gomes
+Gabriel Ribeiro de Jesus
+Gabriel Silva de Azevedo
+Gabriel da Cruz Silva
+Gabriela dos Santos Costa Nunes
+Glauber da Silva Santana
+Gledson Oliveira
+Guilherme Lopes Wanderley
+Gustavo Henrique Bastos Oliveira
+Gustavo Mendes Bastos
+Gustavo Moura Boanerges Oliveira
+Gustavo dos Santos Menezes Alves
+Gustavo dos Santos Menezes Dias
+Henderson Souza Chalegre
+Hiago Rangel de Almeida
+Hugo Ribeiro de Oliveira Filho
+Hílter Cordeiro da Silva
+Ian Marcos M. Fontes
+Ian Zaque Pereira de Jesus dos Santos
+Ian da Silva Vingano
+Ícaro Cardoso Rios
+Ícaro Vasconcelos
+Idelvando Cerqueira de Souza
+Igor Lima Gonçalves
+Itamar Morgado da Silva
+Ivan Marcos M Santos
+Ivanildo Gomes da Silva
+Jadna Almeida da Cruz
+Jadson Firmo Oliveira
+Jhansen Costa Barreto
+Joao Pedro Oliveira Rocha
+Johnny Quest Dantas Pereira
+Johnny da Silva Santana
+Jonatas de Jesus Lima
+José Solenir Lima Figuerêdo
+João Paulo Santos Sena
+João Pedro Costa Ferreira
+João Pedro Oliveira Rocha
+João Victor Oliveira Couto
+João Victor Santana Silva
+João Vitor Souza
+Juliana Aragão Pinto
+Kayo Costa de Santana
+Kayo Martins S. Freire
+Kelvin Cerqueira Gomes
+Kelvin Oliveira do Carmo
+Kevin Cerqueira Gomes
+Leandro Campos Souza
+Leandro Pereira Sampaio
+Leonardo Porto de Souza Lopes
+Leonardo Sampaio das Virgens Cunha
+Lindelmo Havallon S. P. Azevedo
+Lokisley Oliveira Pedreira
+Luan Marcos Fontes
+Lucas Carneiro de Araújo Lima
+Lucas Oliveira Cardoso Dias
+Lucas Paiva
+Lucas da Silva Cardoso
+Lucas dos Santos Rocha
+Luiz Ricardo Inês de Souza
+Macauli Firmo Oliveira
+Manuella dos Reis Araújo Vieira
+Marco Antônio Silva Rios de Almeida
+Marcos Vinicius Cruz Lima
+Marcos Vinicius Ferreira dos Santos
+Marcos Vinícius Cruz
+Marcos de Jesus Ramos
+Marcus Aldrey Soares dos Santos
+Mariana da S. L. Santos
+Mateus Galvão Correia
+Mateus Guimarães dos Santos
+Mateus Guimarães dos Santos Lima
+Mateus de A. Miranda
+Matheus Galvão Correia
+Matheus Nascimento Pereira de Lima
+Matheus Oliveira Borges
+Matheus Sobral Oliveira
+Matheus Teixeira dos Santos
+Melissa Evelyn da S. L. Matos
+Milena Evelyn da S. C. Matos
+Milena Evelyn do S. Matos
+Moisés Almeida da Cruz Farias
+Murilo Cruz Lopes
+Murilo Silva Tanan
+Nadime del Carmen Alves Anteno
+Nadine Alves
+Nadine Cerqueira Marques
+Nilton Cerqueira Bento de Oliveira Jr
+Nágila Rocha Honorato
+Patrick Barnabé Moreira Santos
+Pedro Henrique Brandão Oliveira Bastos
+Pedro Henrique Mota
+Ramires Tacito Oliveira dos Santos
+Ramon de Cerqueira Silva
+Raul do Carmo Peixoto
+Renan Pereira de Souza Silva
+Resemblinck Freitas Cardoso
+Ricardo Porto Cruz
+Roberto Maia Rodrigues Junior
+Robson Jones de Lima
+Rodrigo P. O. Miranda
+Rogério Gabriel Rodrigues Souza
+Rui da Silva Martins
+Samuel Vitorio Lima
+Saulo DTarso O. Araújo
+Sergio de Oliveira
+Silvia Azevedo de Oliveira
+Sosaque de O. da Cunha
+Tarles Walker Ramos Araújo
+Thiago C. M. Souza
+Thiago Luiz Lopes Silva
+Thiago da Cunha Menezes
+Thiago da Cunha Menezes Souza
+Thiago da Cunha Souza
+Tiago de Figueiredo Moura
+Uellington da Conceição Damasceno
+Vagner José dos Santos
+Valmir Vinicius de A Santos
+Vanessa de Souza de Oliveira
+Vanilda de Souza Melo
+Victor César da Rocha Bastos
+Victor Munduruca Gomes Santos
+Victor Oliveira de Freitas
+Victória Oliveira Gomes
+Vitor L. Roma dos Santos
+Wanderson B. da Silva
+Wellington da Conceição Damasceno
+Werisson Nascimento Mota
+Weslei Santos Pinheiro
+Weverson dos Santos Gomes
+William Oliveira Soares
+Yuri da Silva Martins

@@ -1,0 +1,188 @@
+Monitores do PBL
+
+Marcos de Jesus Ramos
+Khaíck Oliveira Brito
+Alex Anderson Ferreira Boa Morte
+Henderson Souza Chalegre
+Sergio Cerqueira
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Participantes do PBL 
+
+Diego do Carmo Silva
+João Samuel Vilas Boas Góes
+Alissson Rodrigues de Carvalho Santos
+Mateus Ferreira Borges Soares
+João Erick Barbosa Teixeira Da Silva
+Italo Gustavo Vieira Souza
+João Vítor Santos de Andrade
+Gabriel de Oliveira Silva
+Daniel Fernandes Campos
+Evelyn Suzarte Fernandes
+Felipe Silva Queiroz
+Gabriel Araujo Carvalho dos Santos
+João Pedro Rios Carvalho
+João Victor Macedo dos Santos Lima
+Lucas de Paiva Carianha
+Mateus Fernandes Santos
+Thiago Cardozo de Jesus
+Bianca Santana de Araújo Silva
+Eduardo Lima de Matos
+João Pedro de Carvalho
+José Fernandes dos Santos Neto
+José Gabriel Gomes dos Santos Oliveira
+Pedro Henrique
+Rafael Mota Soares
+Tarcio Passos Freitas
+Danrlei Almeida Araújo
+Caio Soares
+Estefane Carmo de Souza
+Lucas da Silva Oliveira 
+Sidnei Santos Santana
+Rodrigo Silva Santos
+Allan Capistrano de Santana Santos
+Pedro Antônio Nunes Moreira
+João Lucas da Silva Cerqueira
+---------------------------------------------------------------------------------------------------------------------------------
+ 
+Monitores Siecomp
+
+Gabriel da Cruz Silva
+Leandro Pereira Sampaio
+Leandro Pereira Sampaio
+Leandro Pereira Sampaio
+William Oliveira Soares
+Enio Miranda Costa
+Táison Machado Cerqueira
+Elvis Huges do Nascimento
+Cleyton Almeida da Silva
+Emerson Santos Lima
+Pedro Henrique Gomes dos Santos
+
+---------------------------------------------------------------------------------------------------------------------------------
+ 
+Organizadores Siecomp
+
+Jussara Gomes Machado
+Jhone Mendes de Almeida
+
+---------------------------------------------------------------------------------------------------------------------------------
+ 
+Organizadores Campeonatos
+
+Antonio Crispim Amorin Neto
+Joacy Mesquita da Silva
+Rodrigo Fraga Oliveira
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Palestrantes (Título seguido dos palestrantes - 1h somente uma palestra será 2h)
+ 
+Técnicas para aumento de desempenho pessoal 
+Angelo Amâncio Duarte
+
+Vue.JS - Desenvolvimento evolutivo e modularizado
+Frederico de Oliveira Ribeiro Lima
+
+PET Engenharia: Programa de Educação Tutorial
+Gledson Oliveira
+
+Mulheres inventoras, mulheres engenheiras 
+Beatriz de Santana 
+Andressa Borges
+
+Freelancer – A história que ninguém te conta 
+Alex Anderson Ferreira Boa Morte
+
+Apresentação do Curso 
+Matheus Giovanni Pires
+
+Demonstração: Como construir e manipular drones	Geral (2h de carga horária)	
+João Henrique
+Thiago Barbosa 
+
+Ramo IEEE - UEFS
+Antonio Crispim Amorin Neto
+Victor Figueiredo
+
+O que é o MEJ e como ele vai mudar a sua visão de mundo 
+Khaíck Oliveira Brito
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+Ministrantes de Minicursos (Título seguido de carga horária e ministrantes)
+
+Introdução à Lógica de Programação - 6h	
+Claudia Pinto Pereira 
+Ricardo Sena Carvalho 
+Samuel Vitorio Lima 
+Sergio Pugliesi de Matos 
+Alan Pereira
+
+Aprendizagem de Programação com C	-	4h	
+Camille de Lima Jesús
+Émylle Andressa Borges de Lima 
+Glauber da Silva Santana
+
+Trabalho em Equipe	Calouros - 2h	
+Rosária da Paixão Trindade
+
+Introdução à Estruturas de dados com POO - 4h	
+Emerson Santos Lima 
+
+Docker: a tecnologia dos contêineres agilizando sua vida	-	4h	
+Antonio Raian de Lima Mendes 
+Sarah Pereira Cerqueira
+
+Aprenda a criar aplicações web de um jeito fácil e reativo com Vue.js - 4h	 
+Emerson de Brito Souza 
+Bruno Menezes de Lima
+
+Desenvolvimento de Jogos utilizando Love2d/Lua - 8h	
+João Victor Oliveira Couto
+
+Desenvolvendo Projetos em Arduino - 4h	
+Ivanildo Gomes da Silva 
+Ramon de Cerqueira Silva
+
+Introdução ao Javascript - 4h	
+Ariana de J. S. Pereira 
+Emille Victória Sampaio Guedes 
+Valmir Vinícius de Almeida Santos
+
+Construindo API REST com Node.js - 8h	
+Luiz Ricardo Inês de Souza
+
+Fazendo música com Arduino - 4h	
+Émylle Andressa Borges de Lima
+Milena de Souza Melo
+
+Microcontroladores e Protocolos de Comunicação	- 8h
+Franklin Lázaro Santos de Oliveira
+
+Projeto e Desenvolvimento de Placas de Circuito Impresso - 8h
+Franklin Lázaro Santos de Oliveira
+
+Circuitos Digitais	- 4h	
+Gustavo Henrique Bastos de Oliveira 
+Ramon de Cerqueira Silva 
+Guilherme Lopes Wanderley
+
+dos contêineres agilizando sua vida	-	4h	
+Antonio Raian de Lima Mendes 
+Sarah Pereira Cerqueira
+
+Aprenda a criar aplicações web de um jeito fácil e reativo com Vue.js - 4h	 
+Emerson de Brito Souza 
+Bruno Menezes de Lima
+
+Desenvolvimento de Jogos utilizando Love2d/Lua - 8h	
+João Victor Oliveira Couto
+
+Desenvolvendo Projetos em Arduino - 4h	
+Ivanildo Gomes da Silva 
+Ramon de Cerqueira Silva
+
+Introdução ao Javascript - 4h	
+Ariana de J. S. Pe

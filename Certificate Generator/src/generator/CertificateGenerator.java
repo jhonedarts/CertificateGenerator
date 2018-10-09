@@ -44,7 +44,7 @@ public class CertificateGenerator {
     private ArrayList<ArrayList<String>> text2 = new ArrayList();
     
     private String text3 = ", com a carga horária de ";
-    private String text4 = " horas, na ";
+    private String text4 = " horas, ";
     private String eventoHoras = "20";
     
     public void salvar() throws FileNotFoundException, IOException{
@@ -81,7 +81,7 @@ public class CertificateGenerator {
         text2 = new ArrayList<>();
         ArrayList<String> temp = new ArrayList<>();
         temp.add("final");
-        temp.add("XIX Semana de Integração de Engenharia da Computação, realizada na Universidade Estadual de Feira de Santana de 19 a 23 de Março de 2018.");
+        temp.add("na XIX Semana de Integração de Engenharia da Computação, realizada na Universidade Estadual de Feira de Santana de 19 a 23 de Março de 2018.");
         text2.add(temp);
         temp = new ArrayList<>();
         temp.add("oficina");
@@ -156,7 +156,7 @@ public class CertificateGenerator {
                                 cat = "erro";
                                 curso = "erro";
                                 horas = "00";
-                            }                        
+                            }  
                         }else{
                             nome = line.split("/")[1].trim();
                             nomeAux = nome.split("\\s+");                            
@@ -165,7 +165,7 @@ public class CertificateGenerator {
                                 nome = (nomeAux1.length()>3)?nome.concat(StringUtils.capitalize(nomeAux1))+" ":nome.concat(nomeAux1)+" ";   
                             }
                             nome = nome.trim();
-                            if(tipo==1)//muda de participante pra palestrante
+                            //if(tipo==1)//muda de participante pra palestrante
                                 tipo = 2;
                             createCertificate(cat,curso, horas, nome, tipo);
                         }
@@ -185,6 +185,7 @@ public class CertificateGenerator {
                     }
                 }       
             }
+            reader.close();
         }
         System.out.println("concluido!");
     }
@@ -205,9 +206,7 @@ public class CertificateGenerator {
             horas = eventoHoras;
         cursoParticipante = "";
         if (curso.contains("/")){
-            curso = curso.split("/")[curso.split("/").length-1];
-            if(curso.split("/").length==2)
-                cursoParticipante = curso;
+            cursoParticipante = curso = curso.split("/")[curso.split("/").length-1];
         }
             
         document.open();
