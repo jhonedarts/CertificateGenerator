@@ -1,3 +1,26 @@
+
+/monitor ;20
+Gabriel da Cruz Silva
+Leandro Pereira Sampaio
+Leandro Pereira Sampaio
+Leandro Pereira Sampaio
+William Oliveira Soares
+Enio Miranda Costa
+Táison Machado Cerqueira
+Elvis Huges do Nascimento
+Cleyton Almeida da Silva
+Emerson Santos Lima
+Pedro Henrique Gomes dos Santos
+
+/organizacao ;20
+Jussara Gomes Machado
+Jhone Mendes de Almeida
+
+/organizacao /Campeonatos ;20
+Antonio Crispim Amorin Neto
+Joacy Mesquita da Silva
+Rodrigo Fraga Oliveira
+
 /oficina /Docker: a tecnologia dos contêineres agilizando sua vida ;04
 /Antonio Raian de Lima Mendes 
 /Sarah Pereira Cerqueira
@@ -8,6 +31,48 @@ Pedro Henrique Gomes dos Santos
 Carlos Andradé Pereira Tinin
 Ícaro Carlos Rios
 Gledson de Oliveira
+
+/oficina /Oficina PBL ;06
+/Marcos de Jesus Ramos
+/Khaíck Oliveira Brito
+/Alex Anderson Ferreira Boa Morte
+/Henderson Souza Chalegre
+/Sergio Cerqueira
+
+Diego do Carmo Silva
+João Samuel Vilas Boas Góes
+Alissson Rodrigues de Carvalho Santos
+Mateus Ferreira Borges Soares
+João Erick Barbosa Teixeira Da Silva
+Italo Gustavo Vieira Souza
+João Vítor Santos de Andrade
+Gabriel de Oliveira Silva
+Daniel Fernandes Campos
+Evelyn Suzarte Fernandes
+Felipe Silva Queiroz
+Gabriel Araujo Carvalho dos Santos
+João Pedro Rios Carvalho
+João Victor Macedo dos Santos Lima
+Lucas de Paiva Carianha
+Mateus Fernandes Santos
+Thiago Cardozo de Jesus
+Bianca Santana de Araújo Silva
+Eduardo Lima de Matos
+João Pedro de Carvalho
+José Fernandes dos Santos Neto
+José Gabriel Gomes dos Santos Oliveira
+Pedro Henrique
+Rafael Mota Soares
+Tarcio Passos Freitas
+Danrlei Almeida Araújo
+Caio Soares
+Estefane Carmo de Souza
+Lucas da Silva Oliveira 
+Sidnei Santos Santana
+Rodrigo Silva Santos
+Allan Capistrano de Santana Santos
+Pedro Antônio Nunes Moreira
+João Lucas da Silva Cerqueira
 
 /oficina /Aprenda a criar aplicações web de um jeito fácil e reativo com Vue.js ;04
 /Emerson de Brito Souza
@@ -81,12 +146,11 @@ Dermeval Neves de Oliveira Filho
 
 /oficina /Fazendo música com Arduino ;04 
 /Milena de Souza Melo 
-/Émylle Andressa ;borges de Lima
+/Émylle Andressa borges de Lima
 
 Pedro Henrique B. Bastos
 
 /oficina /Microcontroladores e Protocolos de Comunicação ;04
-/Franklin Lázaro Santos de Oliveira
 
 Elvis Michael Souza Serafim
 Abel Ramalho Galvão
@@ -132,7 +196,6 @@ Matheus Oliveira Cerqueira
 Igor Lima Gonçalves
 
 /oficina /Projeto e Desenvolvimento de Placas de Circuito Impresso ;04
-/Franklin Lázaro Santos de Oliveira
 
 Victor Munduruca Gomes Santos
 Abel Ramalho GalvãoAnanias Correia do Nascimento
@@ -281,3 +344,165 @@ Felipe Silva Queiroz
 João Victor Macedo dos Santos LIMA
 Lucas de Paiva Carianha
 Tárcio Passos Freitas
+
+/palestra /Técnicas para aumento de desempenho pessoal ;01
+/Angelo Amâncio Duarte
+
+Víctor César da Rocha Bastos 
+Matheus Nascimento P. de Lima
+Evelyn Suzarte Fernandes
+Gabriel Silva de Azevedo
+Evaldson Queiroz Nunes
+Fabio Santos de Oliveira
+Victor Munduruca Gomes Santos
+Matheus Teixeira dos Santos
+Valmir Vinicius de Almeida Santos
+Anderson Teixeira dos Santos
+Rafael Mota Soares
+Esdras Abreu Silva
+Sarah Pereira Cerqueira
+João Paulo Santos Sena 
+Marcos de Jesus Ramos
+William Oliveira Soares
+Khaíck Oliveira Brito
+Gustavo Henrique B. de Oliveira
+Matheus Lima F. de Conceição
+Marcia Oliveira dos Santos Coelho
+
+/palestra /Vue.JS - Desenvolvimento evolutivo e modularizado ;01
+/Frederico de Oliveira Ribeiro Lima
+
+Evaldson Queiroz Nunes 
+Antonio Crispim Amorin Neto
+Vagner José dos Santos
+
+/palestra /PET Engenharia: Programa de Educação Tutorial ;01
+/Gledson Oliveira
+
+Rodrigo P. O. Miranda
+Ivan Marcos M. Fontes
+Nadime del Carmen Alves Nascimento
+Lucas Oliveira Cardoso Dias
+Melissa Evelyn do S. L. Matos
+Mariana da Silva Lima Santos
+Matheus Nascimento P. de Lima
+William Oliveira Soares
+Rodrigo Fraga Oliveira
+Patrícia Alessandra Carmona dos Santos
+Matheus Teixeira dos Santos
+
+/palestra /Mulheres inventoras, mulheres engenheiras ;01
+/Beatriz de Santana 
+/Andressa Borges
+
+Laercio de Souza Rios
+Ivan Marcos M. Fontes
+Idelvando C. de Souza
+Mariana da Silva Lima Santos
+Esther de Santana Araújo
+
+/palestra /Freelancer – A história que ninguém te conta ;01
+/Alex Anderson Ferreira Boa Morte
+
+Vagner José dos Santos
+Elvis Huges do Nascimento
+Evaldson Queiroz Nunes
+Antonio Crispim Amorin Neto
+
+/palestra /Apresentação do Curso ;01
+/Matheus Giovanni Pires
+
+Gabriel Ribeiro de Jesus
+Hiago Rangel de Almeida
+Moiisés Almeida da Cruz Farias
+Kelvin Cerqueira Gomes
+Lucas Carneiro de Almeida Lima
+Daniel Victor dos Santos Gonçalves
+Brenda Nascimento dos Santos Souza
+Cleyton Almeida Silva
+Esdras Abreu Silva
+Daniel Cavalcante Dourado
+Lucas da Silva Cardoso
+Samuel Vitorio Lima
+Marco Antonio Silva Rios de Almeida
+
+/palestra /Demonstração: Como construir e manipular drones em Geral ;02
+/João Henrique
+/Thiago Barbosa
+
+Víctor César da Rocha Bastos
+Matheus Nascimento P. de Lima
+Evelyn Suzarte Fernandes
+Gabriel Silva de Azevedo
+Evaldson Queiroz Nunes
+Wanderson B. da Silva
+Camille de Lima Jesús
+Fabio Santos de Oliveira
+Victor Munduruca Gomes Santos
+Matheus Teixeira dos Santos
+Valmir Vinicius de Almeida Santos
+Anderson Teixeira dos Santos
+Idelvando Cerqueira de Souza
+Samuel Vitorio Lima
+Jamile Sousa Dias
+Lidiane da Paixão
+
+/palestra /Ramo IEEE - UEFS ;01
+/Antonio Crispim Amorin Neto
+/Victor Figueiredo
+
+Valmir Vinícius de Almeida Santos
+Ariana de J. S. Pereira
+Lucas da Silva Cardoso
+Samuel Vitorio Lima
+Lucas Silva Lima
+Rodrigo P. O. Miranda
+Ivan Marcos M. Fontes
+Kelvin Cerqueira Gomes
+Lucas Carneiro de Almeida Lima
+Daniel Victor dos Santos Gonçalves
+Hiago Rangel de Almeida
+Esdras Abreu Silva
+Moiisés Almeida da Cruz Farias
+Roberto Maia Rodrigues Júnior
+Gabriel Ribeiro de Jesus 
+Carlos Alberto Brandão Costa Júnior
+Daniel Cavalcante Dourado
+Nadime del Carmen Alves Nascimento
+Lucas Oliveira Cardoso Dias
+Melissa Evelyn do S. L. Matos
+Mariana da Silva Lima Santos
+Matheus Nascimento P. de Lima
+William Oliveira Soares
+Rodrigo Fraga Oliveira
+Patrícia Alessandra Carmona dos Santos
+
+/palestra /O que é o MEJ e como ele vai mudar a sua visão de mundo ;01
+/Khaíck Oliveira Brito
+
+Lucas da Silva Cardoso
+Samuel Vitorio Lima
+Kelvin Cerqueira Gomes
+Lucas Carneiro de Almeida Lima
+Daniel Victor dos Santos Gonçalves
+Esdras Abreu Silva
+Moiisés Almeida da Cruz Farias
+Roberto Maia Rodrigues Júnior
+Gabriel Ribeiro de Jesus 
+Daniel Cavalcante Dourado
+Rodrigo Fraga Oliveira
+Patrícia Alessandra Carmona dos Santos
+Cleyton Almeida Silva
+Valmir Vinicius de Almeida Santos
+Emille Victória Sampaio Guedes
+Brenda Nascimento dos Santos Souza
+Hiago Rangel de Almeida
+Marco Antonio Silva Rios de Almeida
+Lucas Oliveira Cardoso Dias
+Elvis Huges do Nascimento
+
+/participacao ;20
+Alex Anderson Ferreira Boa Morte
+Ian Zaque Pereira de Jesus dos Santos
+Johnny Quest Dantas Pereira
+Messias Júnios Lira da Silva

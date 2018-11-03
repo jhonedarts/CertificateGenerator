@@ -48,7 +48,7 @@ public class view extends javax.swing.JFrame {
                 modelo.addElement(config.get(i).get(0));
         }
         fullTextArea.setLineWrap(true);
-        fullTextArea.setText(controller.getText1()+"João da Silva Exemplo participou do workshop: " +
+        fullTextArea.setText(controller.getText1()+"João da Silva Exemplo participou do palestra: " +
                 "Introdução ao Conhecimento Científico, com a carga horária de XX" +
                 "horas, na "+controller.getFinal());
         jList1.setModel(modelo);
@@ -134,7 +134,7 @@ public class view extends javax.swing.JFrame {
 
         jList1.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
         jList1.setModel(new javax.swing.AbstractListModel<String>() {
-            String[] strings = { "palestra", "oficina", "workshop", "monitor", "organizacao" };
+            String[] strings = { "palestra", "oficina", "palestra", "participacao", "monitor", "organizacao" };
             public int getSize() { return strings.length; }
             public String getElementAt(int i) { return strings[i]; }
         });
@@ -612,11 +612,12 @@ public class view extends javax.swing.JFrame {
         try {
             statusLabel.setText("executando...");
             controller.run();
+            statusLabel.setText("Gerado com sucesso!");
         } catch (IOException | DocumentException ex) {
             statusLabel.setText("Falha na geração, cheque o arquivo de entrada!");
             statusLabel.setVisible(true);
         }
-        statusLabel.setText("Gerado com sucesso!");
+        
     }//GEN-LAST:event_gerarButtonActionPerformed
 
     private void editarRadioButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_editarRadioButton1ActionPerformed

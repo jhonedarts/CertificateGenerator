@@ -70,6 +70,12 @@ public class CertificateGenerator {
                 cat = text2.get(u).get(0);
                 categorias.put(cat, text2.get(u));
             }
+            
+            for(int u=0;u<text2.size();u++){
+                if(text2.get(u).get(0).equals("imgPath")){
+                    this.IMAGE = text2.get(u).get(1);
+                }
+            }
         } catch (IOException|ClassNotFoundException ex) {
             return false;
         } 
@@ -89,22 +95,21 @@ public class CertificateGenerator {
         temp.add(" ministrou a oficina: ");
         text2.add(temp);
         temp = new ArrayList<>();
-        temp.add("workshop");
-        temp.add(" participou do workshop: ");
-        temp.add(" ministrou o workshop: ");
-        text2.add(temp);
-        temp = new ArrayList<>();
         temp.add("palestra");
-        temp.add(" participou do evento ");
+        temp.add(" participou da palestra: ");
         temp.add(" ministrou a palestra: ");
         text2.add(temp);
         temp = new ArrayList<>();
+        temp.add("participacao");
+        temp.add(" participou do evento");
+        text2.add(temp);
+        temp = new ArrayList<>();
         temp.add("monitor");
-        temp.add(" participou como monitor ");
+        temp.add(" participou como monitor");
         text2.add(temp);
         temp = new ArrayList<>();
         temp.add("organizacao");
-        temp.add(" participou da organização ");
+        temp.add(" participou da organização");
         text2.add(temp);
         temp = new ArrayList<>();
         temp.add("imgPath");
@@ -125,39 +130,39 @@ public class CertificateGenerator {
         //leitor        
         String line, curso = null, nome, horas = null;
         String aux[], nomeAux[];
-        int tipo = 0;
+        int tipo = 2;
         for (int i = 0; i < listOfFiles.length; i++) {
             BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(listOfFiles[i]), "UTF-8"));
             while ((line = reader.readLine()) != null){
                 
                 if(line.length()>3){
                     if(line.contains("/") ){
-                        if (line.contains(";")){
+                        if (line.contains(";")){ //cabeçalho do evento
                             aux = line.split("/|;");
-                            
                             ArrayList<String> auxList = categorias.get(aux[1].trim());
                             if (auxList != null){
                                 cat = auxList.get(0);
+                                //só pra colocar o nome da pasta no plural, ex: oficina => oficinas
                                 if(auxList.get(0).charAt(auxList.get(0).length()-1)=='r')
                                     curso = auxList.get(0)+"es";
-                                else if (auxList.get(0).charAt(auxList.get(0).length()-1)=='s'||auxList.get(0).charAt(auxList.get(0).length()-1)=='o')
+                                else if (auxList.get(0).charAt(auxList.get(0).length()-1)=='s'  || auxList.get(0).charAt(auxList.get(0).length()-1)=='o')
                                     curso = auxList.get(0);
                                 else
                                     curso = auxList.get(0)+"s";
+                                
+                                //Caso nao tenha um tiulo como, por exemplo, organização ou monitor
                                 if(aux.length>3){
-                                    if (curso.contains("palestra"))
-                                        curso = "palestras/palestrantes/"+StringUtils.capitalize(aux[2].trim());
-                                    else
+                                    if (!curso.contains("participacao"))
                                         curso = curso+"/"+StringUtils.capitalize(aux[2].trim());
-                                    horas = aux [3].trim();
+                                    horas = aux[3].trim();
                                 }else
-                                    horas = aux [2].trim();                                
+                                    horas = aux[2].trim();                             
                             }else{
                                 cat = "erro";
                                 curso = "erro";
                                 horas = "00";
                             }  
-                        }else{
+                        }else{//palestrantes
                             nome = line.split("/")[1].trim();
                             nomeAux = nome.split("\\s+");                            
                             nome = "";
@@ -165,22 +170,19 @@ public class CertificateGenerator {
                                 nome = (nomeAux1.length()>3)?nome.concat(StringUtils.capitalize(nomeAux1))+" ":nome.concat(nomeAux1)+" ";   
                             }
                             nome = nome.trim();
-                            //if(tipo==1)//muda de participante pra palestrante
-                                tipo = 2;
+                            tipo = 2;
                             createCertificate(cat,curso, horas, nome, tipo);
                         }
-                    }else {
+                    }else { //participantes
                         nomeAux = line.split("\\s+");                            
                         nome = "";
                         for (String nomeAux1 : nomeAux) {
                             nome = (nomeAux1.length()>3)?nome.concat(StringUtils.capitalize(nomeAux1))+" ":nome.concat(nomeAux1)+" ";   
                         }
-                        nome = nome.trim();
-                        
-                        if(tipo==2)//muda de palestrante pra participante
+                        nome = nome.trim();                        
+                        if(tipo==2)//muda de participacaonte pra participante
                             tipo = 1;
-                        if(curso.contains("palestra"))
-                            curso = "palestras";
+                        
                         createCertificate(cat,curso, horas, nome, tipo);
                     }
                 }       
@@ -189,7 +191,9 @@ public class CertificateGenerator {
         }
         System.out.println("concluido!");
     }
-    public void createCertificate(String cat, String curso, String horas, String nome, int tipo) throws DocumentException, IOException{        
+    public void createCertificate(String cat, String curso, String horas, String nome, int tipo) throws DocumentException, IOException{
+        curso = curso.replace(':', ',');
+        curso = curso.replace('?', '+');
         String dest = DEST+curso+"/"+nome+".pdf";//organizador
         String cursoParticipante = null;
         BaseFont bf = BaseFont.createFont(FONT, BaseFont.WINANSI, BaseFont.EMBEDDED);
@@ -199,10 +203,11 @@ public class CertificateGenerator {
         file.getParentFile().mkdirs();
         Document document = new Document(PageSize.A4.rotate());
         //document.setMargins(80, 80, 380, 100); //A3  
+        
         document.setMargins(50, 50, 270, 30); //A4
         PdfWriter writer = PdfWriter.getInstance(document, new FileOutputStream(dest));
         
-        if(curso.contains("palestra")&& !curso.contains("palestrante"))
+        if(curso.contains("participacao"))
             horas = eventoHoras;
         cursoParticipante = "";
         if (curso.contains("/")){
@@ -217,8 +222,12 @@ public class CertificateGenerator {
         String text2 =null;
         if (curso.contains("+"))
             curso = curso.replace('+', '?');
-        
+               
         ArrayList<String> auxList = categorias.get(cat);
+        if(auxList==null){
+            return;
+        }
+            
         if (tipo==1)//participante
             text2 = auxList.get(1)+cursoParticipante;
         else{
@@ -228,8 +237,9 @@ public class CertificateGenerator {
             text2 = t+curso;
         }
         
-        String text5 = categorias.get("final").get(1);
-        Paragraph paragrafo = new Paragraph(26,text1+nome+text2+text3+horas+text4+text5, font);//A3
+        String text5 = categorias.get("final").get(1); 
+        String text4aux = (horas.contains("01"))? " hora, ":" horas, ";
+        Paragraph paragrafo = new Paragraph(26,text1+nome+text2+text3+horas+text4aux+text5, font);//A3
         paragrafo.setAlignment(Element.ALIGN_CENTER);
         document.add(paragrafo);
         PdfContentByte canvas = writer.getDirectContentUnder();
@@ -248,7 +258,7 @@ public class CertificateGenerator {
         File folder = new File("in/");
         File[] listOfFiles = folder.listFiles();
         //leitor        
-        boolean palestrante =false;
+        boolean participacaonte =false;
         String line, nome;
         String aux[], nomeAux[];
         for (int i = 0; i < listOfFiles.length; i++) {if(!listOfFiles[i].getName().contains("ORD.txt")){
@@ -270,7 +280,7 @@ public class CertificateGenerator {
                             List<String> listname = new ArrayList<String>(ordenador.keySet());
                             Collections.sort(listname);
                             String df ="";
-                            if(palestrante)
+                            if(participacaonte)
                                 df="/";
                             
                             for(String sd:listname){
@@ -282,7 +292,7 @@ public class CertificateGenerator {
                             //escrever nome do curso em arquivo  
                             gravarArq.printf(line+"%n");
                         }else{
-                            palestrante = true;
+                            participacaonte = true;
                             nome = line.split("/")[1].trim();
                             nomeAux = nome.split("\\s+");                            
                             nome = "";
@@ -294,7 +304,7 @@ public class CertificateGenerator {
                             ordenador.put(nome, nome);
                         }
                     }else {
-                        if(palestrante){
+                        if(participacaonte){
                             List<String> listname = new ArrayList<String>(ordenador.keySet());
                             Collections.sort(listname);
                             for(String sd:listname){
@@ -303,7 +313,7 @@ public class CertificateGenerator {
                             }
                             gravarArq.printf("%n");
                             ordenador = new HashMap<>();
-                            palestrante = false;
+                            participacaonte = false;
                         }
                         nomeAux = line.split("\\s+");                            
                         nome = "";
@@ -323,7 +333,7 @@ public class CertificateGenerator {
                 gravarArq.printf(sd+"%n");//escrever em arquivo 
             }
             ordenador = null;
-            palestrante = false;
+            participacaonte = false;
 
             arq.close();
             
@@ -352,6 +362,12 @@ public class CertificateGenerator {
                 text2.get(u).set(1, this.IMAGE);
             }
         }
+        try {
+            salvar();
+        } catch (IOException ex) {
+            Logger.getLogger(CertificateGenerator.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        
     }
 
     public String getDEST() {
