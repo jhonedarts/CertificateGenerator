@@ -167,7 +167,8 @@ public class CertificateGenerator {
                             nomeAux = nome.split("\\s+");                            
                             nome = "";
                             for (String nomeAux1 : nomeAux) {
-                                nome = (nomeAux1.length()>3)?nome.concat(StringUtils.capitalize(nomeAux1))+" ":nome.concat(nomeAux1)+" ";   
+                                nomeAux1 = nomeAux1.toLowerCase();
+                                nome = (nomeAux1.length()>2)?nome.concat(StringUtils.capitalize(nomeAux1))+" ":nome.concat(nomeAux1)+" ";   
                             }
                             nome = nome.trim();
                             tipo = 2;
@@ -177,7 +178,8 @@ public class CertificateGenerator {
                         nomeAux = line.split("\\s+");                            
                         nome = "";
                         for (String nomeAux1 : nomeAux) {
-                            nome = (nomeAux1.length()>3)?nome.concat(StringUtils.capitalize(nomeAux1))+" ":nome.concat(nomeAux1)+" ";   
+                            nomeAux1 = nomeAux1.toLowerCase();
+                            nome = (nomeAux1.length()>2)?nome.concat(StringUtils.capitalize(nomeAux1))+" ":nome.concat(nomeAux1)+" ";   
                         }
                         nome = nome.trim();                        
                         if(tipo==2)//muda de participacaonte pra participante
